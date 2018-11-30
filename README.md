@@ -1,3 +1,6 @@
+
+[![Build Status](https://cerpassrxdev.visualstudio.com/Test%20Dev%20Project/_apis/build/status/Test%20Dev%20Project-CI)](https://cerpassrxdev.visualstudio.com/Test%20Dev%20Project/_build/latest?definitionId=1)
+
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
